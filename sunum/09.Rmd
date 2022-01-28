@@ -2,7 +2,7 @@
 title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: " <br> `r emo::ji('graph')` ÖNicel Verilerin Toplanması ve Analizi"
 author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
-date: "2021-2022 GUZ-Hafta 8 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
+date: "2021-2022 GUZ-Hafta 9 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -236,7 +236,7 @@ knitr::include_graphics("img/dereceleme.png")
 ## Uzman Değerlendirme Formu
 
 ```{r echo=FALSE, fig.align='center',out.width="90%"}
-knitr::include_graphics("img/uzman.png")
+knitr::include_graphics("img/uzman.jpg")
 ```
 
 ---
