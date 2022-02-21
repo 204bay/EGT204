@@ -491,7 +491,7 @@ knitr::include_graphics("img/Korelasyon1.PNG")
 - Puanlar arası **tutarlılık** varsa, verilecek puanlar, iki değerlendirmecinin puanlarının ortalaması alınarak verilebilir. 
 
 ---
-## Güvenirliği Etkileyn Faktörler
+## Güvenirliği Etkileyen Faktörler
 
 - Ölçme aracına ilişkin faktörler:
 
